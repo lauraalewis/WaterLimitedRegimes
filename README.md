@@ -1,0 +1,1 @@
+Water Limited Regimes occur when evapotranspiration is restricted by low soil moisture rather than available energy - often leading to a feedback loop where high temperatures are exacerbated by reduced evaporative cooling. Energy is converted into sensible heat instead of latent heat.
